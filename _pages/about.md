@@ -34,7 +34,7 @@ My research interests lie in computer vision, machine learning, and robotics, wi
 
 **Qianqian Shen<sup>*</sup>**, Yunhan Zhao<sup>*</sup>, Nahyun Kwon, Jeeeun Kim, Yanan Li, Shu Kong
 
-[[**Project**]](https://github.com/insdet/instance-detection/) &nbsp;&nbsp; [[Paper]](https://arxiv.org/pdf/2310.19257)
+[[**Project**]](https://github.com/insdet/instance-detection/) &nbsp;&nbsp; [[**Paper**]](https://arxiv.org/pdf/2310.19257)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> 
 </div>
 </div>
