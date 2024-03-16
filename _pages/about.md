@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a postdoctoral research fellow of EAGLE Lab, Zhejiang University, advised by Prof. [Haishuai Wang](https://openreview.net/profile?id=~Haishuai_Wang2). I also work closely with Prof. [Shu Kong](https://aimerykong.github.io/) at University of Macau. Before that, I was an assistant research fellow at Zhejiang Lab, working with Dr. [Yanan Li](https://yananlix1.github.io/). I completed my Ph.D. in IDComs from the University of Edinburgh, supervised by Prof. [David Laurenson](https://scholar.google.co.uk/citations?hl=en&user=jFrg7ikAAAAJ&view_op=list_works&sortby=pubdate). 
 
-My research interests lie in computer vision, machine learning, and robotics, with a specific focus on instance detection and few-shot learning.
+My research interests lie in computer vision and machine learning, with a specific focus on instance detection in robotics and transfer learning in healthcare applications.
 
 
 # 🔥 News
