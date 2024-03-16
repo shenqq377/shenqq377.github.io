@@ -39,7 +39,7 @@ My research interests lie in computer vision, machine learning, and robotics, wi
 </div>
 </div>
 
-- [Q-Net: Query-informed few-shot medical image segmentation](https://arxiv.org/pdf/2208.11451.pdf), **Qianqian Shen<sup>*</sup>**, Yanan Li, Jiyong Jin, Bin Liu. Intellisys. 2023.
+- [Q-Net: Query-informed few-shot medical image segmentation](https://arxiv.org/pdf/2208.11451.pdf), **Qianqian Shen**, Yanan Li, Jiyong Jin, Bin Liu. Intellisys. 2023.
 - [A dynamic feature fusion strategy for magnetic field and wi-fi based indoor positioning](https://ieeexplore.ieee.org/abstract/document/8911798), Yichen Du, Tughrul Arslan, **Qianqian Shen**. IPIN. 2019
 
 <!-- # 🎖 Honors and Awards
