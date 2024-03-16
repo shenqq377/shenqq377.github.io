@@ -9,7 +9,7 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Honors and Awards"
+  <!-- - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
   - title: "Educations"
@@ -19,4 +19,4 @@ main:
     url: "/#-invited-talks"
 
   - title: "Internships"
-    url: "/#-internships"
+    url: "/#-internships" -->
