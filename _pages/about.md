@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<font size=7 color=BLUE>This page is under construction...</font>
+<font size=6 color=BLUE>This page is under construction...</font>
 
 
 I am currently a postdoctoral research fellow of EAGLE Lab, Zhejiang University, working with Prof. [Haishuai Wang](https://openreview.net/profile?id=~Haishuai_Wang2). I also work closely with Dr. [Shu Kong](https://aimerykong.github.io/) and Dr. [Yanan Li](https://yananlix1.github.io/). Before that, I was an assistant research fellow at Zhejiang Lab. I completed my Ph.D. from the University of Edinburgh, supervised by Prof. [David Laurenson](https://scholar.google.co.uk/citations?hl=en&user=jFrg7ikAAAAJ&view_op=list_works&sortby=pubdate). 
