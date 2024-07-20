@@ -20,11 +20,12 @@ redirect_from:
 <font size=6 color=BLUE>This page is under construction...</font>
 
 
-I am currently a postdoctoral research fellow at Zhejiang University, working with Prof. [Haishuai Wang](https://openreview.net/profile?id=~Haishuai_Wang2). I also work closely with Dr. [Shu Kong](https://aimerykong.github.io/) and Dr. [Yanan Li](https://yananlix1.github.io/). Before that, I was an assistant research fellow at Zhejiang Lab. I completed my Ph.D. from the University of Edinburgh, supervised by Prof. [David Laurenson](https://scholar.google.co.uk/citations?hl=en&user=jFrg7ikAAAAJ&view_op=list_works&sortby=pubdate). 
+I am currently a postdoctoral research fellow at Zhejiang University, working with Prof. [Haishuai Wang](https://openreview.net/profile?id=~Haishuai_Wang2). I also work closely with Dr. [Shu Kong](https://aimerykong.github.io/). Before that, I was an assistant research fellow at Zhejiang Lab. I completed my Ph.D. from the University of Edinburgh, supervised by Prof. [David Laurenson](https://scholar.google.co.uk/citations?hl=en&user=jFrg7ikAAAAJ&view_op=list_works&sortby=pubdate). 
 
 My research interests lie in computer vision and machine learning, with a specific focus on instance detection in robotics and transfer learning in healthcare applications.
 
 # 🔥 News
+- *2024.06*: &nbsp;🎉🎉 Our Challenge "Object Instance Detection" has been held at "4th Workshop on Visual Perception and Learning in an Open World" in conjunction with CVPR on June 18, 2024!
 - *2023.10*: &nbsp;🎉🎉 Our paper, "A High-Resolution Dataset for Instance Detection with Multi-View Instance Capture" has been accepted by NeurIPS Datasets and Benchmarks Track 2023. 
 
 # 📝 Publications 
