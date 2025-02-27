@@ -25,6 +25,7 @@ I am currently a postdoctoral research fellow at Zhejiang University, working wi
 My research interests lie in computer vision and machine learning, with a specific focus on instance detection in robotics and transfer learning in healthcare applications.
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 Our paper, "Solving Instance Detection from an Open-World Perspective" has been accepted by CVPR 2025. 
 - *2024.12*: &nbsp;🎉🎉 Our Challenge Workshop "[Object Instance Detection](https://insdet.github.io)" has been held in conjunction with ACCV on December 09, 2024!
 - *2024.06*: &nbsp;🎉🎉 Our Challenge "Object Instance Detection" has been held at "4th Workshop on Visual Perception and Learning in an Open World" in conjunction with CVPR on June 18, 2024!
 - *2023.10*: &nbsp;🎉🎉 Our paper, "A High-Resolution Dataset for Instance Detection with Multi-View Instance Capture" has been accepted by NeurIPS Datasets and Benchmarks Track 2023. 
