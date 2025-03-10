@@ -35,11 +35,11 @@ My research interests lie in computer vision and machine learning, with a specif
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/neurips23-insdet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Solving Instance Detection from an Open-World Perspective]
+Solving Instance Detection from an Open-World Perspective
 
 **Qianqian Shen<sup>*</sup>**, Yunhan Zhao<sup>*</sup>, Nahyun Kwon, Jeeeun Kim, Yanan Li, Shu Kong
 
-[[**Project**]](https://github.com/insdet/instance-detection/) &nbsp;&nbsp; [[**Paper**]](https://arxiv.org/pdf/2503.00359)
+[[**Paper**]](https://arxiv.org/pdf/2503.00359)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> 
 </div>
 </div>
