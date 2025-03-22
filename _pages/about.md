@@ -39,7 +39,7 @@ Solving Instance Detection from an Open-World Perspective
 
 **Qianqian Shen<sup>*</sup>**, Yunhan Zhao<sup>*</sup>, Nahyun Kwon, Jeeeun Kim, Yanan Li, Shu Kong
 
-[[**Paper**]](https://arxiv.org/pdf/2503.00359)
+[[**Project**]](https://shenqq377.github.io/IDOW/) &nbsp;&nbsp; [[**Paper**]](https://arxiv.org/pdf/2503.00359)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> 
 </div>
 </div>
