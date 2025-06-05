@@ -25,6 +25,8 @@ I am currently a postdoctoral research fellow at Zhejiang University, working wi
 My research interests lie in computer vision and machine learning, with a specific focus on instance detection in robotics and transfer learning in healthcare applications.
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 Our Challenge "Object Instance Detection" will be held at "5th Workshop on Visual Perception and Learning in an Open World" in conjunction with CVPR on June 11, 2025!
+- *2025.05*: &nbsp;🎉🎉 Our paper, "Enhancing Bone Mineral Density Estimation from X-ray Images with Cross-Modal Knowledge Distillation" has been accepted by KDD 2025. 
 - *2025.02*: &nbsp;🎉🎉 Our paper, "Solving Instance Detection from an Open-World Perspective" has been accepted by CVPR 2025. 
 - *2024.12*: &nbsp;🎉🎉 Our Challenge Workshop "[Object Instance Detection](https://insdet.github.io)" has been held in conjunction with ACCV on December 09, 2024!
 - *2024.06*: &nbsp;🎉🎉 Our Challenge "Object Instance Detection" has been held at "4th Workshop on Visual Perception and Learning in an Open World" in conjunction with CVPR on June 18, 2024!
@@ -56,6 +58,7 @@ Solving Instance Detection from an Open-World Perspective
 </div>
 </div>
 
+- [Enhancing Bone Mineral Density Estimation from X-ray Images with Cross-Modal Knowledge Distillation](https://doi.org/10.1145/3711896.3737214), Keyue Shi, **Qianqian Shen**, Zhongda Qi, Junyao Yang, Zhaoming Ye, Jiajun Bu, Haishuai Wang. KDD. 2025.
 - [Q-Net: Query-informed few-shot medical image segmentation](https://arxiv.org/pdf/2208.11451.pdf), **Qianqian Shen**, Yanan Li, Jiyong Jin, Bin Liu. Intellisys. 2023.
 - [A dynamic feature fusion strategy for magnetic field and wi-fi based indoor positioning](https://ieeexplore.ieee.org/abstract/document/8911798), Yichen Du, Tughrul Arslan, **Qianqian Shen**. IPIN. 2019
 
