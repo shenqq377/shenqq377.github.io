@@ -60,9 +60,9 @@ Solving Instance Detection from an Open-World Perspective
 </div>
 </div>
 
-
+- [LUMOS Dataset: Lumbar Multimodal Osteoporosis Screening with X-ray and CT images](), Keyue Shi, **Qianqian Shen**, Zhaoming Ye, liangjun jiang, Jiajun Bu, Haishuai Wang. ACMMM Datasets Track. 2025.
 - [Where Views Meet Curves: Virtual Anchors for Hyperbolic Multi-View Graph Diffusion](), Jielong Lu, Zhihao Wu, Jiajun Yu, **Qianqian Shen**, Jiajun Bu, Haishuai Wang. ACMMM. 2025.
-- [Enhancing Bone Mineral Density Estimation from X-ray Images with Cross-Modal Knowledge Distillation](https://doi.org/10.1145/3711896.3737214), Keyue Shi, **Qianqian Shen**, Zhongda Qi, Junyao Yang, Zhaoming Ye, Jiajun Bu, Haishuai Wang. KDD. 2025.
+- [Enhancing Bone Mineral Density Estimation from X-ray Images with Cross-Modal Knowledge Distillation](https://doi.org/10.1145/3711896.3737214), Keyue Shi, **Qianqian Shen**, Zhongda Qi, Junyao Yang, Zhaoming Ye, Jiajun Bu, Haishuai Wang. KDD ADS Track. 2025.
 - [Q-Net: Query-informed few-shot medical image segmentation](https://arxiv.org/pdf/2208.11451.pdf), **Qianqian Shen**, Yanan Li, Jiyong Jin, Bin Liu. Intellisys. 2023.
 - [A dynamic feature fusion strategy for magnetic field and wi-fi based indoor positioning](https://ieeexplore.ieee.org/abstract/document/8911798), Yichen Du, Tughrul Arslan, **Qianqian Shen**. IPIN. 2019
 
