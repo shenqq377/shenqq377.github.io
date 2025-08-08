@@ -39,7 +39,7 @@ My research interests lie in computer vision and machine learning, with a specif
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/cvpr25-insdet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Solving Instance Detection from an Open-World Perspective
+[Solving Instance Detection from an Open-World Perspective](https://openaccess.thecvf.com/content/CVPR2025/papers/Shen_Solving_Instance_Detection_from_an_Open-World_Perspective_CVPR_2025_paper.pdf)
 
 **Qianqian Shen<sup>*</sup>**, Yunhan Zhao<sup>*</sup>, Nahyun Kwon, Jeeeun Kim, Yanan Li, Shu Kong
 
